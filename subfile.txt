@@ -1,0 +1,1 @@
+This is another file alongside the main file. It contains some additional information that is relevant to the main file.
